@@ -1,0 +1,4 @@
+baseURL = "http://dbraccia.com/"
+languageCode = "en-us"
+title = "Personal site for Domenick J. Braccia, powered by Hugo and Github."
+theme = "hugo-profile"
