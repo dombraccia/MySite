@@ -1,4 +1,5 @@
-baseURL: "https://www.dbraccia.com"
+baseURL: "https://dombraccia.github.io/"
+publishDir: "dombraccia.github.io"
 languageCode: "en-us"
 title: "Personal site for D J B"
 theme: "hugo-profile"
