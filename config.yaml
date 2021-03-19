@@ -1,7 +1,7 @@
 baseURL: "https://dbraccia.com/"
 publishDir: "dombraccia.github.io"
 languageCode: "en-us"
-title: "Personal site for D J B"
+title: "Personal site for Domenick J. Braccia"
 theme: "hugo-profile"
 
 googleanalytics: UA-xxxxxxx-x
@@ -33,7 +33,7 @@ params:
   profile_image: "/images/me.jpg"
   descripe_l1_person: "I am a PhD candidate at the University of Maryland, studying bioinformatics and computational biology. My current research focus is on characterizing health relevant functions of the gut microbiome. Generally, I am interested in using computational tools to answer biological questions. I also enjoy creating algorithms to solve a particular problems in biological sequence analysis."
   # descripe_l2_person: "This is just a example for about section. You can easily change with the help of cofig file."
-  useresume: true
+  useresume: false
   resume: ""
 
   # Things I do
