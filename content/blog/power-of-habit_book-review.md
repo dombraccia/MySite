@@ -1,12 +1,11 @@
 ---
 title: Book Review; The Power of Habit
-author: Domenick J.
+author: Domenick J. Braccia
 date: '2018-07-07'
 categories:
-  - Book
-  - Review
+  - book review
 tags:
-  - ...
+  - book review
 ---
 
 # TL;DR
