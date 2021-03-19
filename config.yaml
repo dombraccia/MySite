@@ -1,4 +1,4 @@
-baseURL: "https://dbraccia.com/"
+baseURL: "https://www.dbraccia.com/"
 publishDir: "dombraccia.github.io"
 languageCode: "en-us"
 title: "Personal site for Domenick J. Braccia"
@@ -35,8 +35,8 @@ params:
   profile_image: "/images/me.jpg"
   descripe_l1_person: "I am a PhD candidate at the University of Maryland, studying bioinformatics and computational biology. My current research focus is on characterizing health relevant functions of the gut microbiome." 
   descripe_l2_person: "Generally, I am interested in using computational tools to answer biological questions. I also enjoy creating algorithms to solve a particular problems in biological sequence analysis."
-  useresume: true 
-  resume: "CV.md"
+  useresume: false 
+  resume: ""
 
   # Things I do
   usedothings: false
