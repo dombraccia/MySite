@@ -1,4 +1,4 @@
-baseURL: "https://www.dbraccia.com/"
+baseURL: "https://dbraccia.com/"
 publishDir: "dombraccia.github.io"
 languageCode: "en-us"
 title: "Personal site for Domenick J. Braccia"
@@ -21,14 +21,14 @@ params:
   # Navbar Menus
   customMenus:
     - name: "CV"
-      Url: "/CV"
+      Url: "/cv"
     - name: "Blog"
       Url: "/blog"
 
   # social
   name: "Domenick"
   github: "https://github.com/dombraccia"
-  linkedin: "https://linkedin.com/in/dombraccia"
+  linkedin: ""
   twitter: "https://twitter.com/dombraccia"
 
   # About
