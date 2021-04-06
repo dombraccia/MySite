@@ -1,7 +1,7 @@
 baseURL: "https://dbraccia.com/"
 publishDir: "dombraccia.github.io"
 languageCode: "en-us"
-title: "Personal site for Domenick J. Braccia"
+title: "Domenick J. Braccia"
 theme: "hugo-profile"
 
 googleanalytics: UA-xxxxxxx-x
@@ -14,19 +14,19 @@ taxonomies:
 
 enableEmoji: true
 params:
-  favicon: "/images/me.jpg"
+  favicon: "/images/self_portrait_screen_shot.png"
   #description: "A high performance hugo theme for personal website. It is single page portfolio. It has blog."
   copyright: "2021"
 
   # Navbar Menus
   customMenus:
-    - name: "CV"
-      Url: "/cv"
     - name: "Blog"
       Url: "/blog"
 
   # social
-  name: "Domenick"
+  socialicontop: true
+  socialiconfooter: true
+  name: ""
   github: "https://github.com/dombraccia"
   linkedin: ""
   twitter: "https://twitter.com/dombraccia"
@@ -34,25 +34,25 @@ params:
   # About
   profile_image: "/images/me.jpg"
   descripe_l1_person: "I am a PhD candidate at the University of Maryland, studying bioinformatics and computational biology. My current research focus is on characterizing health relevant functions of the gut microbiome." 
-  descripe_l2_person: "Generally, I am interested in using computational tools to answer biological questions. I also enjoy creating algorithms to solve a particular problems in biological sequence analysis."
+  #descripe_l2_person: "Generally, I am interested in using computational tools to answer biological questions. I also enjoy creating algorithms to solve a particular problems in biological sequence analysis."
   useresume: true
   customname: "CV" 
   resumelink: "/cv"
 
   # Things I do
-  usedothings: false
+  usedothings: true 
   Things:
-    - logo: fab fa-python
-      title: Python
-      description: I write programs using R
+    - logo: fas fa-certificate 
+      title: Microbiome
+      description: I study health relevant functions of the gut microbiome
 
-    - logo: fas fa-robot
-      title: Machine learning
-      description: I train robust models for various tasks.
+    - logo: fas fa-terminal
+      title: Bioinformatics
+      description: I design computational workflows and algorithms to answer biological questions 
 
-    - logo: fab fa-html5
-      title: Things for web
-      description: I love to build things for web
+    - logo: fas fa-eye
+      title: Visualization 
+      description: I enjoy making useful visualizations to explain results
 
   #Description for seo. If you want to show description in your listing or single page, let's make it true
-  showdescription: false
+  showdescription: true 
